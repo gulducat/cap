@@ -1,4 +1,4 @@
-module github.com/hashicorp/cap
+module github.com/gulducat/cap
 
 go 1.21
 
